@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3013b676-2216-44a9-936a-8a5d82e4eed0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/facade">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Z2WfkBysftXxGoglsfYsTzGsDu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="ru.mirea.patterns.adapter" />
+      <recent name="ru.mirea.patterns.strategy" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.App (1)">
+    <configuration name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="App" />
+      <module name="patterns.builder.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.mirea.patterns.adapter.App" />
+      <module name="patterns.adapter.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.mirea.patterns.adapter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.mirea.patterns.facade.App" />
+      <module name="patterns.facade.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.mirea.patterns.facade.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="facade" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/facade" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="patterns" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App (1)" />
+        <item itemvalue="Application.App" />
+        <item itemvalue="Gradle.facade" />
+        <item itemvalue="Gradle.patterns" />
+        <item itemvalue="Application.App (4)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3013b676-2216-44a9-936a-8a5d82e4eed0" name="Default Changelist" comment="" />
+      <created>1584037774737</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584037774737</updated>
+      <workItem from="1584037779138" duration="3779000" />
+      <workItem from="1584048254872" duration="1532000" />
+      <workItem from="1584120058390" duration="3806000" />
+      <workItem from="1584193721320" duration="4488000" />
+      <workItem from="1584448365400" duration="2181000" />
+      <workItem from="1584535226206" duration="1930000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="22" key="#Project_Structure" timestamp="1584193809527">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="233" y="22" key="#Project_Structure/0.0.1280.720@0.0.1280.720" timestamp="1584193809527" />
+    <state x="446" y="53" key="#com.intellij.ide.util.MemberChooser" timestamp="1584195098646">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="446" y="53" key="#com.intellij.ide.util.MemberChooser/0.0.1280.720@0.0.1280.720" timestamp="1584195098646" />
+    <state x="440" y="229" width="401" height="268" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1584048416970">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="440" y="229" width="401" height="268" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.720@0.0.1280.720" timestamp="1584048416970" />
+    <state x="368" y="4" key="#patterns" timestamp="1584204667643">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="368" y="4" key="#patterns/0.0.1280.720@0.0.1280.720" timestamp="1584204667643" />
+    <state x="421" y="118" key="FileChooserDialogImpl" timestamp="1584195755750">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="421" y="118" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1584195755750" />
+    <state width="1237" height="229" key="GridCell.Tab.0.bottom" timestamp="1584537173490">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="229" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1584537173490" />
+    <state width="1237" height="229" key="GridCell.Tab.0.center" timestamp="1584537173490">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="229" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1584537173490" />
+    <state width="1237" height="229" key="GridCell.Tab.0.left" timestamp="1584537173490">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="229" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1584537173490" />
+    <state width="1237" height="229" key="GridCell.Tab.0.right" timestamp="1584537173490">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="229" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1584537173490" />
+    <state x="121" y="0" key="SettingsEditor" timestamp="1584204773228">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="121" y="0" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1584204773228" />
+    <state x="91" y="0" key="new project wizard" timestamp="1584536571123">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="91" y="0" key="new project wizard/0.0.1280.720@0.0.1280.720" timestamp="1584536571123" />
+    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1584204159607">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup/0.0.1280.720@0.0.1280.720" timestamp="1584204159607" />
+  </component>
+</project>

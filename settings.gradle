@@ -1,0 +1,10 @@
+rootProject.name = 'patterns'
+include 'strategy'
+include 'observer'
+include 'decorator'
+include 'Fapric'
+include 'fabric'
+include 'adapter'
+include 'facade'
+include 'builder'
+
